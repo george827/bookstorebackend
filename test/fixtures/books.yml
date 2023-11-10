@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  author: MyString
+  year_of_release: 2023-11-10
+  genre: MyString
+  isbn: MyString
+  quatity: 1
+  status: false
+
+two:
+  title: MyString
+  author: MyString
+  year_of_release: 2023-11-10
+  genre: MyString
+  isbn: MyString
+  quatity: 1
+  status: false
